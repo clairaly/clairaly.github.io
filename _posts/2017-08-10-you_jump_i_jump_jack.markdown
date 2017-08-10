@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "**You Jump, I Jump, Jack**"
-date:   2017-08-10 20:19:20 +0000
+title:  "You Jump, I Jump, Jack"
+date:   2017-08-10 16:19:20 -0400
 ---
 
 
